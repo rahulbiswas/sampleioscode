@@ -4,8 +4,8 @@
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 {
-    UIWindow *window;
-    ViewController *viewController;
+  UIWindow *window;
+  ViewController *viewController;
 }
 
 @property (nonatomic, retain) UIWindow *window;
