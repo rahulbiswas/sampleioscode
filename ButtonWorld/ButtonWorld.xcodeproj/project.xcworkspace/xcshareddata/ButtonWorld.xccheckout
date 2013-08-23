@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3DCE1DEB-D697-4799-87AC-8350491A25EC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ButtonWorld</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7997E494-9EFF-4695-BD48-B806C5108F2E</key>
+		<string>https://github.com/rahulbiswas/sampleioscode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ButtonWorld/ButtonWorld.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7997E494-9EFF-4695-BD48-B806C5108F2E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rahulbiswas/sampleioscode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7997E494-9EFF-4695-BD48-B806C5108F2E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7997E494-9EFF-4695-BD48-B806C5108F2E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sampleioscode</string>
+		</dict>
+	</array>
+</dict>
+</plist>
